@@ -90,4 +90,4 @@ urllib3==2.0.5
 wasabi==1.1.2
 wcwidth==0.2.8
 wordcloud==1.9.2
-zipp==3.17.0
+zipp==3.19.1
